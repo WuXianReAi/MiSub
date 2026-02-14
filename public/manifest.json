@@ -1,7 +1,7 @@
 {
-  "name": "MiSub - 订阅转换器",
-  "short_name": "MiSub",
-  "description": "基于 Cloudflare 的订阅转换和管理工具",
+  "name": "XCY - 订阅转换器",
+  "short_name": "XCY",
+  "description": "XCY订阅转换和管理工具",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#0f172a",
